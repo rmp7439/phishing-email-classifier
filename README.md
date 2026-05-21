@@ -31,6 +31,7 @@ jupyter lab classifier.ipynb
 ```
 
 ## Project Structure
+```
 phishing-email-classifier/
 ├── classifier.ipynb
 ├── csv_files/
@@ -50,6 +51,7 @@ phishing-email-classifier/
 │   └── lime_explanation.html
 ├── .gitignore
 └── README.md
+```
 
 ## Results
 | Model | Accuracy |
