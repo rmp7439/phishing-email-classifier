@@ -54,6 +54,9 @@ phishing-email-classifier/
 ```
 
 ## Results
+
+### Model Performance
+
 | Model | Accuracy |
 |-------|----------|
 | Naive Bayes | 96% |
@@ -61,7 +64,12 @@ phishing-email-classifier/
 | Random Forest | 98% |
 | LinearSVC | 98% |
 
+### Confusion Matrix
+
 ![Confusion Matrix](results/confusion_matrix.png)
+
+### SHAP Feature Importance
+
 ![SHAP Summary](results/shap_summary.png)
 
 ## Future Improvements
